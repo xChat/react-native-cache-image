@@ -30,7 +30,7 @@
     },
     "peerDependencies": {
         "@remobile/react-native-sqlite": "^1.0.2",
-        "react-native-fs": "^2.0.1",
+        "react-native-fs": "^2.0.1-rc.2",
         "react-timer-mixin": "^0.13.3"
     }
 }
