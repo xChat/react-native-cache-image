@@ -1,5 +1,5 @@
 {
-    "name": "@remobile/react-native-cache-image",
+    "name": "react-native-cache-image",
     "version": "1.0.2",
     "description": "A cache-image for react-native",
     "main": "index.js",
@@ -20,13 +20,9 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-cache-image",
-    "bugs": {
-        "url": "https://github.com/remobile/react-native-cache-image/issues"
-    },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-cache-image.git"
+        "url": "git://github.com/xChat/react-native-cache-image.git"
     },
     "peerDependencies": {
         "@remobile/react-native-sqlite": "^1.0.2",
